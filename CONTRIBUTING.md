@@ -8,11 +8,7 @@ Here are some important resources:
 
   * [The Repo by OrbitX](https://theaom.substack.com) tells you where we are,
   * [Our DAO](https://www.ducatdao.xyz) is the Decentralized Organization, and
-  * Parent Organization? [OrbitX](https://orbitalxploration.com) is where to report them
-
-## Testing
-
-We have a handful of Cucumber features, but most of our testbed consists of RSpec examples. Please write RSpec examples for new code you create.
+  * Parent Organization? [OrbitX](https://orbitalxploration.com) is where to visit them.
 
 ## Submitting changes
 
