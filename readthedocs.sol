@@ -1,4 +1,4 @@
-# .readthedocs.yaml
+# readthedocs.sol
 # Read the Docs configuration file
 # See https://theaom.substack.com for details
 
