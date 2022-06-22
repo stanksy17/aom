@@ -114,7 +114,7 @@ interface IVault is ISignaturesValidator, ITemporarilyPausable {
     //
     // Internal Balance management features batching, which means a single contract call can be used to perform multiple
     // operations of different kinds, with different senders and recipients, at once.
-
+    
     /**
      * @dev Returns `user`'s Internal Balance for a set of tokens.
      */
